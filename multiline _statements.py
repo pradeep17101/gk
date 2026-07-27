@@ -10,3 +10,7 @@ print(sum)
 total=(47+43+
        27+57)
 print(total)
+
+#Output:
+#91
+#174
