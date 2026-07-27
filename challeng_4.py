@@ -6,4 +6,8 @@ x=40
 #An expression is a combination of values,variables, and operators that produces a value
 y=x+7
 print(x)#statement
-print(y)#statement 
+print(y)#statement
+
+#Output
+#40
+#47
