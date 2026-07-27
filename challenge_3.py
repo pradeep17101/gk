@@ -8,3 +8,9 @@ circumference=(2*3.14*radius)
 print("Area of circle is",area)
 print("Circumference of circle is",circumference)
 
+#Output:
+#Enter the radius
+#4
+#Area of circle is 50.24
+#Circumference of circle is 25.12
+
