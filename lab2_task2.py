@@ -11,3 +11,13 @@ print(keyword.iskeyword("student"))
 print(keyword.iskeyword("def"))
 print(keyword.iskeyword("or"))
 
+
+#Output:
+#True
+#True
+#True
+#False
+#False
+#True
+#True
+
