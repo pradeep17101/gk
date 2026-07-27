@@ -12,3 +12,6 @@ parser.add_argument("--num2", type=int, default=0)
 args = parser.parse_args()
 
 print("Sum =", args.num1 + args.num2)
+
+#Output:
+#Sum = 0
