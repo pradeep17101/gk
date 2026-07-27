@@ -7,3 +7,7 @@ numbers = input("Enter numbers separated by spaces: ")
 # Convert to integers and find sum
 numbers = list(map(int, numbers.split()))
 print("Sum =", sum(numbers))
+
+#Output:
+#Enter numbers separated by spaces: 2
+#Sum = 2
