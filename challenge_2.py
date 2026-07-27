@@ -6,3 +6,8 @@ import keyword
 print(keyword.softkwlist)
 print(len(keyword.softkwlist))
 
+#Output:
+#['_', 'case', 'match', 'type']
+#4
+
+
