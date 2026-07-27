@@ -6,3 +6,7 @@ balance=9876.44
 print(type(balance))
 balance=4000
 print(type(balance))
+
+#Output:
+#<class 'float'>
+#<class 'int'>
