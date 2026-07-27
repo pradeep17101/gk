@@ -1,4 +1,7 @@
-# Multiple assignment of different values
+#Name=T.Pradeep
+#lab=3
+#task=2
+#Program=Multiple assignment of different values
 a, b, c = 10, 20, 30
 
 print("Values after multiple assignment:")
