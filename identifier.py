@@ -1,3 +1,9 @@
+#Name=T.Pradeep
+#lab=1
+#task=1
+#Program=five valid identifiers	of different kinds: a variable,	a constant-style name, a function name,	a class name, and a name using an underscore.
+
+
 number = 10
 MAX_VALUE = 100
 def greet():
