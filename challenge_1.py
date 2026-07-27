@@ -20,3 +20,8 @@ if is_valid_identifier(name):
     print("Valid Identifier")
 else:
     print("Invalid Identifier")
+
+
+#Output:
+#Enter a name: pradeep
+#Valid Identifier
