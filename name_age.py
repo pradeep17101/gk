@@ -6,3 +6,9 @@ name=input("Whats your name?")
 age=input("Whats your age ?")
 print("Hello",name,", you will turn",int(age)+1,"next year")
 
+#Output:
+#Whats your name?pradeep
+#Whats your age ?19
+#Hello pradeep , you will turn 20 next year
+
+
