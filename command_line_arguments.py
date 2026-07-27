@@ -10,3 +10,6 @@ if len(sys.argv)==3:
     print("sum=",n1+n2)
 else:
     print("wrong number of arguments")
+
+#Output:
+#wrong number of arguments
