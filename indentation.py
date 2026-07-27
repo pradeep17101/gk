@@ -14,3 +14,7 @@ if number%2==0:
     print("even number")
 else:
     print("odd number")
+
+#Output:
+#enter the number5
+#odd number
