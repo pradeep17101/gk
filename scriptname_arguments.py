@@ -11,3 +11,7 @@ print("Script Name:", sys.argv[0])
 
 # Print total number of arguments
 print("Total Arguments:", len(sys.argv))
+
+#Output:
+#Script Name: D:\PRADEEP TALABHAKTULA\Documents\random.py
+#Total Arguments: 1
