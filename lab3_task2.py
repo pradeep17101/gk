@@ -13,3 +13,14 @@ print("\nValues after assigning the same value:")
 print("x =", x)
 print("y =", y)
 print("z =", z)
+
+#Output:
+#Values after multiple assignment:
+#a = 10
+#b = 20
+#c = 30
+
+#Values after assigning the same value:
+#x = 100
+#y = 100
+#z = 100
