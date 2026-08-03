@@ -19,3 +19,16 @@ print("After swapping by tuple unpacking i.e a,b=b,a")
 print("a =",a)
 print("b =",b)
 
+#Output:
+#Enter 'a'value:4
+#Enter 'b' value:3
+#After swapping
+#a = 3
+#b = 4
+#Enter 'a'value:2
+#Enter 'b' value:3
+#After swapping by tuple unpacking i.e a,b=b,a
+#a = 3
+#b = 2
+
+

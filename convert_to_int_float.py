@@ -15,3 +15,11 @@ print("Sum =", num1 + num2)
 print("Difference =", num1 - num2)
 print("Product =", num1 * num2)
 print("Quotient =", num1 / num2)
+
+#Output:
+#Enter first number: 4
+#Enter second number: 5
+#Sum = 9.0
+#Difference = -1.0
+#Product = 20.0
+#Quotient = 0.8

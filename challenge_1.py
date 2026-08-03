@@ -1,3 +1,8 @@
+#Name=T.Pradeep
+#lab=1
+#task=challenge 1
+
+
 import keyword
 def is_valid_identifier(name):
     if name == "":
@@ -20,3 +25,8 @@ if is_valid_identifier(name):
     print("Valid Identifier")
 else:
     print("Invalid Identifier")
+
+
+#Output:
+#Enter a name: pradeep
+#Valid Identifier

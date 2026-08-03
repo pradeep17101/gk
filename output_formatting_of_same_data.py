@@ -12,3 +12,9 @@ print("Name:", name, "Marks:", marks)
 print("Name: {} Marks: {}".format(name, marks))
 # 3. f-string
 print(f"Name: {name} Marks: {marks}")
+
+
+#Output:
+#Name: Rahul Marks: 95
+#Name: Rahul Marks: 95
+#Name: Rahul Marks: 95

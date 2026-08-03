@@ -8,3 +8,7 @@ marks = list(map(int, input("Enter 3 marks: ").split()))
 average = sum(marks) / 3
 # Print average with 2 decimal places
 print("Average = {:.2f}".format(average))
+
+#Output:
+#Enter 3 marks: 500
+#Average = 166.67
