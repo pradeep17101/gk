@@ -12,6 +12,12 @@ print("Type of current_year:", type(current_year))
 print("Type of birth_year:", type(birth_year))
 print("Age in 2050:", 2050 - birth_year)
 
+#Output:
+#Type of age: <class 'int'>
+#Type of current_year: <class 'int'>
+#Type of birth_year: <class 'int'>
+#Age in 2050: 45
+
 #Task A1.2
 x = 17
 y = 5
@@ -19,6 +25,11 @@ y = 5
 print(x // y)   # Integer division
 print(x % y)    # remainder
 print(x ** 2)   # Exponent
+
+#Output:
+#3
+#2
+#289
 
 
 #taskA1.3
@@ -39,3 +50,12 @@ print(not is_raining)
 # Verify that bool is a subtype of int
 print(True + True)
 print(False * 5)
+
+#Output:
+#<class 'bool'>
+#<class 'bool'>
+#False
+#True
+#False
+#2
+#0
