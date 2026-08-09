@@ -29,10 +29,46 @@ print(x ** 2)   # Exponent
 #Output:
 #3
 #2
-#289
+#289 
 
 
-#taskA1.3
+#task A2.1
+#strings
+
+first = "Ada"
+last = "Lovelace"
+
+full_name = first + " " + last
+
+print("Uppercas:", full_name.upper())
+print("Lowercase:", full_name.lower())
+print("Title Case:", full_name.title())
+
+print("Length:", len(full_name))
+
+print("First charcter:", full_name[0])
+print("Last character:", full_name[-1])
+
+#Output:
+#Uppercase: ADA LOVELACE
+#Lowercase: ada lovelace
+#Title Case: Ada Lovelace
+#Length: 12
+#First character: A
+#Last character: e
+
+
+# Task A2.2
+
+space_position = full_name.index(" ")
+first_name_only = full_name[:space_position]
+print("First name:", first_name_only)
+
+#Output:
+#First name: Ada
+
+
+#task A3
 
 # Boolean variables
 is_raining = True
